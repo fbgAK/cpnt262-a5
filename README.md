@@ -15,7 +15,6 @@ Akash Samra
 
  
 ## Tasks
-
 1. standarize page headers 
  - consistent titles (props)
  - consistent layout (markup)
