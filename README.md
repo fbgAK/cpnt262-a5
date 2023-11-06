@@ -7,5 +7,19 @@ Akash Samra
 
 ## Search research notes
 
+## Tasks
+1. standarize page headers 
+ -consistent titles (props)
+ -consistent layout (markup)
+ -page specific color (props)
+ -room for flexibility (slots)
+
+## Steps
+
+1. create a PageHeader component 
+2. set up basic styles and layout of content
+3. create props
+4. implement and test
+5. optimize
 
 ## Attributes
