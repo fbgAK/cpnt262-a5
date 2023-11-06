@@ -5,8 +5,15 @@ Akash Samra
 
 # Link to the GH Pages site
 
+
 ## Search research notes
 
+
+# Svelte Conditionals 
+ -
+ -
+
+ 
 ## Tasks
 
 1. standarize page headers 
