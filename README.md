@@ -29,3 +29,9 @@ Akash Samra
 5. optimize
 
 ## Attributes
+Javascript basics:
+https://sait-wbdv.github.io/slides/w23/cpnt-262/js-introduction.html#/10
+
+Files, Directories and Naming Conventions:
+https://gist.github.com/acidtone/d77059ec1851eff266339a3df70f6984
+ 
