@@ -17,10 +17,10 @@ Akash Samra
 ## Tasks
 
 1. standarize page headers 
- -consistent titles (props)
- -consistent layout (markup)
- -page specific color (props)
- -room for flexibility (slots)
+ - consistent titles (props)
+ - consistent layout (markup)
+ - page specific color (props)
+ - room for flexibility (slots)
 
 ## Steps
 
