@@ -9,7 +9,7 @@ Akash Samra
 ## Search research notes
 
 
-# Svelte Conditionals 
+## Svelte Conditionals 
  -
  -
 
@@ -22,7 +22,6 @@ Akash Samra
  - room for flexibility (slots)
 
 ## Steps
-
 1. create a PageHeader component 
 2. set up basic styles and layout of content
 3. create props
