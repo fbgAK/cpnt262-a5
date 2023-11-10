@@ -6,6 +6,8 @@ Akash Samra
 ## Link to the GH Pages site
 [Link to the GH Pages site](https://thriving-cheesecake-b122eb.netlify.app/)
 
+https://cpnt262-a5-rho.vercel.app/
+
 ## Search research notes/code journal
 It was frustrating trying to deploy on to github I had a very hard time and had to restart this assignment a couple times. I am overall glad with how it turned out the frustration mainly came from how local host was working fine and netlify was an issue. Overall I completed the assignment to the best of my abilities.
 
