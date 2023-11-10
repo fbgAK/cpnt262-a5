@@ -4,16 +4,19 @@
 Akash Samra
 
 ## Link to the GH Pages site
-[Link to the GH Pages site](https://thriving-cheesecake-b122eb.netlify.app/)
+CLICK HERE FOR NETLIFY DEPLOY:
+[Link to the GH Pages site](https://bespoke-nougat-3ccd51.netlify.app/)
 
+CLICK HERE FOR VERCEL DEPLOY:
 https://cpnt262-a5-rho.vercel.app/
 
 ## Search research notes/code journal
-It was frustrating trying to deploy on to github I had a very hard time and had to restart this assignment a couple times. I am overall glad with how it turned out the frustration mainly came from how local host was working fine and netlify was an issue. Overall I completed the assignment to the best of my abilities.
+It was frustrating trying to deploy on to github I had a very hard time and had to restart this assignment a couple times. I am overall glad with how it turned out the frustration mainly came from how local host was working fine and netlify was an issue. Overall I completed the assignment to the best of my abilities. Svelte.dev learn helped alot along the way, I made alot of silly mistakes just being frustrated and tired working on issues but slowly I began to learn and get more comfortable with svelte termonology. The assignment had alot of redos but im glad I learnt from my mistakes and followed the instructions well for this assignment and am happy with the final product.
 
 ## Svelte Conditionals.
  - [Svelte Conditional Slots Example](https://svelte.dev/examples/conditional-slots)
-   
+ 
+ -   https://geoffrich.net/posts/conditionally-stream-data/
 
 ## Search Queries
 
